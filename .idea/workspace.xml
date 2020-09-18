@@ -14,6 +14,9 @@
       <option value="repository" />
     </option>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ReactCourse" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
@@ -39,7 +42,7 @@
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myapp/src" />
   </component>
   <component name="IdeDocumentHistory">
@@ -199,7 +202,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="833" y="23" width="1087" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -209,11 +211,11 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5033493" side_tool="true" weight="0.32916668" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49760765" visible="true" weight="0.32916668" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49760765" visible="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49665073" weight="0.32916668" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21913876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21913876" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -231,6 +233,37 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="EXTERNAL /Users/pernilledahl/Desktop/ReactCourse">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
