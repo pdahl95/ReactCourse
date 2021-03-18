@@ -1,4 +1,4 @@
-### Link to deployed app: https://videos-hooks-alpha-one.vercel.app/
+### Link to deployed app: https://vibrant-albattani-e4e936.netlify.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
