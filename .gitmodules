@@ -1,0 +1,3 @@
+[submodule "weatherApp"]
+	path = weatherApp
+	url = https://github.com/pdahl95/reactCourse
